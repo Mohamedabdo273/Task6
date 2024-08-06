@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\c#\\Task6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|e:\\c#\\task6\\task6\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|solutionrelative:task6\\trustaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|e:\\c#\\task6\\task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|solutionrelative:task6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|e:\\c#\\task6\\task6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|solutionrelative:task6\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|e:\\c#\\task6\\task6\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|solutionrelative:task6\\accountutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|e:\\c#\\task6\\task6\\savings account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|solutionrelative:task6\\savings account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|e:\\c#\\task6\\task6\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23FFA4A9-5C03-4FDE-8094-34ACACCEABF9}|Task6\\Task6.csproj|solutionrelative:task6\\checkingaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TrustAccount.cs",
+              "DocumentMoniker": "E:\\c#\\Task6\\Task6\\TrustAccount.cs",
+              "RelativeDocumentMoniker": "Task6\\TrustAccount.cs",
+              "ToolTip": "E:\\c#\\Task6\\Task6\\TrustAccount.cs",
+              "RelativeToolTip": "Task6\\TrustAccount.cs",
+              "ViewState": "AQIAACkAAACg//////8vwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:43:49.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckingAccount.cs",
+              "DocumentMoniker": "E:\\c#\\Task6\\Task6\\CheckingAccount.cs",
+              "RelativeDocumentMoniker": "Task6\\CheckingAccount.cs",
+              "ToolTip": "E:\\c#\\Task6\\Task6\\CheckingAccount.cs",
+              "RelativeToolTip": "Task6\\CheckingAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:37:47.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Savings Account.cs",
+              "DocumentMoniker": "E:\\c#\\Task6\\Task6\\Savings Account.cs",
+              "RelativeDocumentMoniker": "Task6\\Savings Account.cs",
+              "ToolTip": "E:\\c#\\Task6\\Task6\\Savings Account.cs",
+              "RelativeToolTip": "Task6\\Savings Account.cs",
+              "ViewState": "AQIAAAcAAAAAMzMzMzMLwAgAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:28:27.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountUtil.cs",
+              "DocumentMoniker": "E:\\c#\\Task6\\Task6\\AccountUtil.cs",
+              "RelativeDocumentMoniker": "Task6\\AccountUtil.cs",
+              "ToolTip": "E:\\c#\\Task6\\Task6\\AccountUtil.cs",
+              "RelativeToolTip": "Task6\\AccountUtil.cs",
+              "ViewState": "AQIAAAwAAADAzMzMzMw7wCYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:20:43.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account.cs",
+              "DocumentMoniker": "E:\\c#\\Task6\\Task6\\Account.cs",
+              "RelativeDocumentMoniker": "Task6\\Account.cs",
+              "ToolTip": "E:\\c#\\Task6\\Task6\\Account.cs",
+              "RelativeToolTip": "Task6\\Account.cs",
+              "ViewState": "AQIAAA4AAACgZmZmZmYkwAsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:16:47.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\c#\\Task6\\Task6\\Program.cs",
+              "RelativeDocumentMoniker": "Task6\\Program.cs",
+              "ToolTip": "E:\\c#\\Task6\\Task6\\Program.cs",
+              "RelativeToolTip": "Task6\\Program.cs",
+              "ViewState": "AQIAACQAAACAZmZmZmYSwDIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T11:09:07.235Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
